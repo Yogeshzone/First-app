@@ -1,5 +1,5 @@
 import streamlit as st
-import sklearn 
+import sklearn
 # train a model for iris classification
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
